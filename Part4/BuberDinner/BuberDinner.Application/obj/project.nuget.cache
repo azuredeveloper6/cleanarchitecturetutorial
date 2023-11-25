@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U0bBlDWsNoRtYMx74hdDUFc/vC7K/zBYltAEs2oRwElCfaMa/6+bQ1y68x+pqpLAXRPQWIzRzddOVuxUAysIwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\santh\\source\\repos\\dotnet\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
