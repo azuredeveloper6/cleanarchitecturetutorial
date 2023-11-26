@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SEmSQC5jrBeScAbDl1sNTWHU0IFLRm0xlsaG+dw9iI7HzhQXgFaCitU6cc0bZoHdtL6ZvH9PZ8sk7NIO4sCkmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\santh\\source\\repos\\dotnet\\cleanarchitecturetutorial\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santh\\.nuget\\packages\\fluentresults\\3.15.2\\fluentresults.3.15.2.nupkg.sha512",
+    "C:\\Users\\santh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\santh\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\santh\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
