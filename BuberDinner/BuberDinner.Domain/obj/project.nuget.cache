@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4R/43Q7DDRzVGbuGCswg+FVbEkeLmzjSh+jKnhzwe4C1MkgnZn3MohmKIV3eU4xQVLVVXeJmsPyHvJ/5HpTniQ==",
+  "dgSpecHash": "TRsXwKzGlnAnAndj1TBpmB5bXmF6tlO0qtRE4bDaCD6/O7Hs1OyOPszGqQtsJerkFbCmdVj7PlRZpW9/MeppyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\santh\\source\\repos\\dotnet\\cleanarchitecturetutorial\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+  "projectFilePath": "C:\\Users\\santh\\source\\repos\\cleanarchitecturetutorial\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\santh\\.nuget\\packages\\erroror\\1.3.0\\erroror.1.3.0.nupkg.sha512"
   ],

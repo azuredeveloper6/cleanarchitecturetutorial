@@ -21,3 +21,15 @@ C:\Users\santh\source\repos\dotnet\cleanarchitecturetutorial\BuberDinner\BuberDi
 C:\Users\santh\source\repos\dotnet\cleanarchitecturetutorial\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\refint\BuberDinner.Contracts.dll
 C:\Users\santh\source\repos\dotnet\cleanarchitecturetutorial\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.pdb
 C:\Users\santh\source\repos\dotnet\cleanarchitecturetutorial\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\ref\BuberDinner.Contracts.dll
+C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Contracts\bin\Debug\net6.0\BuberDinner.Contracts.deps.json
+C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Contracts\bin\Debug\net6.0\BuberDinner.Contracts.dll
+C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Contracts\bin\Debug\net6.0\BuberDinner.Contracts.pdb
+C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.AssemblyInfoInputs.cache
+C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.AssemblyInfo.cs
+C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.sourcelink.json
+C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.dll
+C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\refint\BuberDinner.Contracts.dll
+C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.pdb
+C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\ref\BuberDinner.Contracts.dll

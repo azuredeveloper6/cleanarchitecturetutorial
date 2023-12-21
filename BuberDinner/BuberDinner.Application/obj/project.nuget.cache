@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BL6z1mnSjKGS3N3gQf9D11UL9kpcmowtdE+z0fnpS2CXm9jUOMwVjlaN3o4EI9otJnsJ6gMQOOIIK9H16TQqGQ==",
+  "dgSpecHash": "6/cuYCUAqg5ZZSqlLJ+7uvmeGELTQGR/uDHDfjnd9BoIklUjLhfeTqfdRF+DhIaGySrzTVARQs9lAtU+o3EbKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\santh\\source\\repos\\dotnet\\cleanarchitecturetutorial\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+  "projectFilePath": "C:\\Users\\santh\\source\\repos\\cleanarchitecturetutorial\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\santh\\.nuget\\packages\\erroror\\1.3.0\\erroror.1.3.0.nupkg.sha512",
     "C:\\Users\\santh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
