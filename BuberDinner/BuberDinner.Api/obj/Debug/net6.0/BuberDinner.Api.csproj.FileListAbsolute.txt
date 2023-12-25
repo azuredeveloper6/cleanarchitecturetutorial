@@ -145,3 +145,6 @@ C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Ap
 C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.pdb
 C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.genruntimeconfig.cache
 C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\ref\BuberDinner.Api.dll
+C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Mapster.dll
+C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Mapster.DependencyInjection.dll
