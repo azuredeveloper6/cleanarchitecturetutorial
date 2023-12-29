@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "MYlC7XQWHh9yp1fDvic7aigzNAYgmp8BFb93q/CiCpQLZcYuGDlzGmAHCxvYibr9Yx7jZOWv+5/jeSrx4IXp6w==",
+  "dgSpecHash": "5hQyo0XV/mUW0vFDbmPWwq8+8o7ElRsPX4ih3wjFz9VYRe+eWkWtAMcb1ChLBj81C+8q01H74ko5uSOPgy/YKw==",
   "success": true,
   "projectFilePath": "C:\\Users\\santh\\source\\repos\\cleanarchitecturetutorial\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\santh\\.nuget\\packages\\erroror\\1.3.0\\erroror.1.3.0.nupkg.sha512",
+    "C:\\Users\\santh\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\santh\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\santh\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\santh\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
     "C:\\Users\\santh\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
     "C:\\Users\\santh\\.nuget\\packages\\mapster.dependencyinjection\\1.0.1\\mapster.dependencyinjection.1.0.1.nupkg.sha512",

@@ -102,6 +102,12 @@ C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Ap
 C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Api.dll
 C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Api.pdb
 C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\ErrorOr.dll
+C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Mapster.dll
+C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Mapster.DependencyInjection.dll
 C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\MediatR.dll
 C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\MediatR.Contracts.dll
 C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
@@ -129,6 +135,7 @@ C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Ap
 C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.AssemblyInfoInputs.cache
 C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.AssemblyInfo.cs
 C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.csproj.CoreCompileInputs.cache
+C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.sourcelink.json
 C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\staticwebassets.build.json
@@ -145,6 +152,3 @@ C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Ap
 C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.pdb
 C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.genruntimeconfig.cache
 C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\ref\BuberDinner.Api.dll
-C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Mapster.dll
-C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Mapster.Core.dll
-C:\Users\santh\source\repos\cleanarchitecturetutorial\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Mapster.DependencyInjection.dll
